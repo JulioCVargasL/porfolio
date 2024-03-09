@@ -37,6 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'contac'
+    #  python manage.py check
+    #  python manage.py makemigrations contac
+    #  python manage.py migrate
+
 ]
 
 MIDDLEWARE = [
